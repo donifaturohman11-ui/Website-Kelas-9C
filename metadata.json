@@ -1,0 +1,6 @@
+{
+  "name": "Portal Resmi IX C & Guru AI MTs Nurul Hidayah Miftahurroja",
+  "description": "Portal terpadu Kelas IX C dan Asisten Guru AI MTs Nurul Hidayah Miftahurroja Tahun Ajaran 2026/2027: Presensi harian, Organigram, Jadwal Pelajaran, Jadwal Piket, Linimasa, Simulasi Ujian TKA 1 Jam, Zona Game, YouTube Pembelajaran, serta Konsultasi Modul Ajar dan Belajar Sokratik Kurikulum Merdeka Terintegrasi Nilai Keislaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
